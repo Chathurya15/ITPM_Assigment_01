@@ -1,7 +1,6 @@
-# 📘 ITPM Assignment 01 
-# Test Automation using Playwright
+# 📘 ITPM Assignment 01 - Test Automation using Playwright
 
-**Student ID:** IT23345478 | **Module Code:** IT3040 | **Module Name:** IT3040
+**Student ID:** IT23345478 | **Module Code:** IT3040 | **Module Name:** ITPM
 
 ## 📌 Project Overview
 
