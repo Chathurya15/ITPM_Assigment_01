@@ -137,37 +137,30 @@ When you run Option A, you will see results like this:
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ITPM_ASSIGNMENT_01/
-│
-├── node_modules/              # Installed project dependencies (auto-generated)
+├── node_modules/             # Installed project dependencies (auto-generated)
 │   ├── .bin/
 │   ├── @playwright/
 │   ├── @types/
 │   ├── playwright/
 │   ├── playwright-core/
 │   └── undici-types/
-│
-├── playwright-report/         # Playwright HTML report output
+├── playwright-report/        # Playwright HTML report output
 │   ├── data/
 │   └── index.html
-│
-├── test-results/              # Test execution artifacts & traces
-│   ├── example-Assignment-1-Autom-*.zip
-│   ├── example-Assignment-1-Autom-*.zip
+├── test-results/             # Test execution artifacts & traces
 │   ├── example-Assignment-1-Autom-*.zip
 │   └── .last-run.json
-│
 ├── tests/
-│   └── example.spec.js        # Main Playwright test cases
-│
-├── .gitattributes             # Git configuration
-├── .gitignore                 # Files ignored by Git
-├── package.json               # Project metadata & dependencies
-├── package-lock.json          # Dependency lock file
-├── playwright.config.js       # Playwright test configuration
-└── README.md                  # Project documentation
+│   └── example.spec.js       # Main Playwright test cases
+├── .gitattributes            # Git configuration
+├── .gitignore                # Files ignored by Git
+├── package.json              # Project metadata & dependencies
+├── package-lock.json         # Dependency lock file
+├── playwright.config.js      # Playwright test configuration
+└── README.md                 # Project documentation
 
 ---
 
