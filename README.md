@@ -70,28 +70,30 @@ npx playwright install
 You can run the tests using any of the following modes depending on your requirement. Choose the command that best fits your needs:
 
 ### 🌟 Option A: The "Evaluator Mode" (Recommended)
-✔ Best for marking and demonstrations
-✔ Runs tests one by one
-✔ Browser opens visibly
-✔ Terminal output is easy to follow and get a clean list of Green Ticks/Red Crosses in the terminal to compare with Excel.
+1.  Best for marking and demonstrations 
+2.  Runs tests one by one
+3.  Browser opens visibly
+4.  Terminal output is easy to follow and get a clean list of Green Ticks/Red Crosses in the terminal to compare with Excel
 
 ```bash
 npx playwright test --project=chromium --workers=1 --headed
 ```
 
-### ⚡ Option B: The "Fast" Mode (Headless)
-✔ Faster execution
-✔ Runs tests in the background (Headless mode). 
-❗Faster, but the terminal output might appear out of order.
+### 🌟 Option B: The "Fast" Mode (Headless)
+1.  Faster execution
+2.  Runs tests in the background (Headless mode)
+3.  Faster, but the terminal output might appear out of order
+
 
 ```bash
 npx playwright test
 ```
 
-### ⚡ Option C: The "Visual" Parallel Mode
-✔ Browser windows open
-✔ Tests run in parallel
-❗ Output may appear mixed
+### 🌟 Option C: The "Visual" Parallel Mode
+1.  Browser windows open
+2.  Tests run in parallel
+3.  Output may appear mixed
+
 
 ```bash
 npx playwright test --headed
