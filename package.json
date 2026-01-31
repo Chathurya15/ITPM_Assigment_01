@@ -1,0 +1,23 @@
+{
+  "name": "itpm_assigment_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chathurya15/ITPM_Assigment_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Chathurya15/ITPM_Assigment_01/issues"
+  },
+  "homepage": "https://github.com/Chathurya15/ITPM_Assigment_01#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.0.10"
+  }
+}
