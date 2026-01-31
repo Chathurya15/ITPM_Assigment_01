@@ -139,6 +139,7 @@ When you run Option A, you will see results like this:
 
 ## 📂 Project Structure
 
+```text
 ITPM_ASSIGNMENT_01/
 ├── node_modules/             # Installed project dependencies (auto-generated)
 │   ├── .bin/
