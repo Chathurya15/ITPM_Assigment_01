@@ -1,8 +1,7 @@
-# 📘 ITPM Assignment 01 – Test Automation using Playwright
+# 📘 ITPM Assignment 01 
+# Test Automation using Playwright
 
-**Student ID:** IT23345478
-**Module Code:** IT3040
-**Module Name:** IT3040
+**Student ID:** IT23345478 | **Module Code:** IT3040 | **Module Name:** IT3040
 
 ## 📌 Project Overview
 
@@ -56,8 +55,6 @@ Follow these steps carefully:
 ```bash
 npm install
 ```
-
-(Wait for the installation completes)
 
 **Install Playwright Browsers**
 ```bash
@@ -152,7 +149,6 @@ ITPM_ASSIGNMENT_01/
 │   ├── data/
 │   └── index.html
 ├── test-results/             # Test execution artifacts & traces
-│   ├── example-Assignment-1-Autom-*.zip
 │   └── .last-run.json
 ├── tests/
 │   └── example.spec.js       # Main Playwright test cases
